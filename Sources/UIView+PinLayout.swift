@@ -12,7 +12,7 @@ import Foundation
 import UIKit
 
 public extension UIView {
-    public var pin: FrameToolkit {
+    public var frameit: FrameToolkit {
         return FrameToolkitImpl(view: self, keepTransform: true)
     }
 

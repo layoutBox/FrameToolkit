@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name          = "FrameToolkit"
-  spec.version       = "0.0.2"
+  spec.version       = "0.0.3"
   spec.summary       = "TODO"
   #spec.description   = ""
   spec.homepage      = "https://github.com/lcdold/FrameToolkit/"
