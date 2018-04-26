@@ -8,10 +8,10 @@
 
 Pod::Spec.new do |spec|
   spec.name          = "FrameToolkit"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.summary       = "TODO"
   #spec.description   = ""
-  #spec.homepage      = "https://github.com/lcdold/FrameToolkit/"
+  spec.homepage      = "https://github.com/lcdold/FrameToolkit/"
   spec.license       = "MIT license"
   spec.author        = { "Luc Dion" => "luc_dion@yahoo.com" }
   spec.source        = { :git => "https://github.com/lcdold/FrameToolkit.git", :tag => "#{spec.version}" }
